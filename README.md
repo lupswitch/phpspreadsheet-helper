@@ -14,9 +14,9 @@ This library is a helper that encapsulate [PhpSpreadsheet](https://github.com/PH
 OUTLINE
 -------
 
-* [DEMONSTRATION](#demonstration)
-* [INSTALLATION](#installation)
-* [USAGE](#usage)
+* [Demonstration](#demonstration)
+* [Installation](#installation)
+* [Usage](#usage)
   - [Read & Write](#read--write)
     - [newSpreadsheet()](#newspreadsheet)
     - [output()](#output)
