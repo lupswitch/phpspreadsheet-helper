@@ -16,6 +16,7 @@ OUTLINE
 
 * [Demonstration](#demonstration)
 * [Installation](#installation)
+* [Requirements](#requirements)
 * [Usage](#usage)
   - [Read & Write](#read--write)
     - [newSpreadsheet()](#newspreadsheet)
@@ -65,6 +66,19 @@ print_r($data);
 ```
 
 Return two-dimensional array data contained rows > columns spread sheet.
+
+---
+
+REQUIREMENTS
+------------
+
+This library requires the following:
+
+- Dependency by [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/en/develop/#software-requirements)
+  - PHP 5.6.0+
+  - PHP extension php-zip enabled
+  - PHP extension php-xml enabled
+  - PHP extension php-gd2 enabled (if not compiled in)
 
 ---
 
