@@ -74,7 +74,7 @@ REQUIREMENTS
 
 This library requires the following:
 
-- Dependency by [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/en/develop/#software-requirements)
+- Dependent on [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/en/develop/#software-requirements)
   - PHP 5.6.0+
   - PHP extension php-zip enabled
   - PHP extension php-xml enabled
